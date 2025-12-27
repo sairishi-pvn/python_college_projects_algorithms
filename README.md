@@ -1,2 +1,2 @@
-# mypythonprojects_college
-the python codes that I've performed in my college
+# Algorithms in Bioinformatics using Python
+ This repository contains python codes for various necessary algorithms that can be used in Bioinformatics
